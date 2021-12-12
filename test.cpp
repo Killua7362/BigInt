@@ -9,8 +9,8 @@ using namespace std;
 int main()
 {
 	bigint a,b,c;
-	a="999";
-	b="1";
-	c=a-b;
+	a="300";
+	b="200";
+	c=(-a)+b;
 	cout<<c;
-}
+}	
